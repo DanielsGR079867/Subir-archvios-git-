@@ -1,0 +1,24 @@
+h1,p {
+    color:blue;
+    font-size: 30px;
+}
+#parrafo1{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+#parrafo2{
+    color: red;
+    font-size: 30px;
+}
+
+#id{
+    color: brown;
+}
+
+.parrafoGenerico{
+    color: green;
+    font-size: 8px;
+    text-align: center;
+}
